@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^ath=akwz%_9x9e^rp(^ufs2au5427!+6#$%4cv1vgrl(j0x*p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','storesalesprediction.herokuapp.com']
 
 
 # Application definition
